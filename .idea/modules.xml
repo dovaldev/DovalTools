@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DovalTools.iml" filepath="$PROJECT_DIR$/.idea/modules/DovalTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DovalTools.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DovalTools.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dovaltools/DovalTools.dovaltools.iml" filepath="$PROJECT_DIR$/.idea/modules/dovaltools/DovalTools.dovaltools.iml" />
+    </modules>
+  </component>
+</project>

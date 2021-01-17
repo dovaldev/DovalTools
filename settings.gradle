@@ -1,0 +1,3 @@
+include ':dovaltools'
+include ':app'
+rootProject.name = "DovalTools"
